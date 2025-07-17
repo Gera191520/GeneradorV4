@@ -29,7 +29,7 @@ const App = () => {
   // Para cambiar un número a 'V' (vendido), simplemente cambia su estado aquí.
   // Por ejemplo, si "00001" ya fue pagado, cámbialo a "00001": "V"
   const adminNumbersState = {
-    // "00000": "G", 
+    "00000": "G", 
     // "00001": "V", 
   };
   // --- FIN: CONFIGURACIÓN PARA ADMINISTRADOR ---
