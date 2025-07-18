@@ -202,7 +202,7 @@ const App = () => {
     <div className="min-h-screen bg-gradient-to-br from-gray-100 to-gray-200 dark:from-black dark:to-gray-900 text-gray-900 dark:text-white p-4 sm:p-8 font-sans">
       <header className="w-full max-w-6xl mx-auto mb-6 sm:mb-8">
         <h1 className="text-3xl sm:text-4xl font-extrabold text-center mb-4 sm:mb-6 drop-shadow-sm">
-          <img src="/logo.jpg" alt="Tu Logo" className="h-full inline-block mr-2" style={{ maxHeight: '2em' }} />
+          <img src="/logo.jpg" alt="Tu Logo" className="h-full inline-block mr-2" style={{ maxHeight: '1.5em' }} />
           Sorteos la Mamba
         </h1>
         <nav className="flex flex-wrap justify-center gap-2 sm:gap-4 mb-6 sm:mb-8">
