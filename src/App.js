@@ -16,7 +16,7 @@ const App = () => {
 
   // Número de WhatsApp del administrador (modificar aquí)
   // Asegúrate de incluir el código de país sin el signo '+'
-  const adminWhatsappNumber = "521234567890"; // Ejemplo: 52 para México, 1234567890 tu número
+  const adminWhatsappNumber = "528443700098"; // Ejemplo: 52 para México, 1234567890 tu número
 
   // --- INICIO: CONFIGURACIÓN PARA ADMINISTRADOR ---
   // Aquí puedes ver y modificar el estado de los números.
